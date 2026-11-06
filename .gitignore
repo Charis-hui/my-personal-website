@@ -1,0 +1,5 @@
+# 原图备份（无需上传，保留在本地即可）
+images/originals/
+
+# 压缩脚本（开发工具，非网站文件）
+compress.ps1
